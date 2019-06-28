@@ -26,3 +26,15 @@ matplotlib.use("TkAgg")
 
 from tkinter import Label, Button, Entry, Tk, StringVar
 import tkMessageBox
+
+import nidaqmx
+from matplotlib.widgets import Button
+import matplotlib.animation as animation
+import daqplot
+import random
+import peakdetect
+import matplotlib.pyplot as plt
+from math import *
+import os
+from numpy import *
+from tkMessageBox import *
