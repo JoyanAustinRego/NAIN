@@ -4,3 +4,6 @@ BP Measuring System
 #Packages needed
 csv
 tkinter
+MySQLdb
+os
+webbrowser
