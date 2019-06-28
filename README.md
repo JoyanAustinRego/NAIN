@@ -38,3 +38,6 @@ from math import *
 import os
 from numpy import *
 from tkMessageBox import *
+
+import sys
+from numpy import NaN, Inf, arange, isscalar, asarray, array
